@@ -1,0 +1,28 @@
+.container {
+  border: 5px solid #444;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 100px);
+  grid-template-rows: repeat(2, 50px);
+  justify-content: center;
+  align-content: center;
+  grid-gap: 5px;
+}
+.num1 {
+  background-color: rgb(0, 208, 255);
+}
+.num2 {
+  background-color: rgb(238, 255, 0);
+}
+.num3 {
+  background-color: rgb(0, 208, 255);
+}
+.num4 {
+  background-color: rgb(238, 255, 0);
+}
+.num5 {
+  background-color: rgb(0, 208, 255);
+}
+.num6 {
+  background-color: rgb(238, 255, 0);
+}
